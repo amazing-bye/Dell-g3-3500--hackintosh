@@ -1171,9 +1171,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro16,4</string>
 			<key>SystemSerialNumber</key>
-			<string>C02C7KYCMD6T</string>
+			<string>**********</string>
 			<key>SystemUUID</key>
-			<string>D6CFED23-E8C1-4D63-A6BC-6713D3B0F5A5</string>
+			<string>************</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
