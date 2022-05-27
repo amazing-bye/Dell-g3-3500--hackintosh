@@ -1,4 +1,4 @@
-# Dell-g3-3500-i7-10870h--hackintool
+# Dell-g3-3500-i7-10870h
 ## 基础配置
 * CPU i7-10870h
 * 显卡 RTX2060（无解）+ Intel UHD630
